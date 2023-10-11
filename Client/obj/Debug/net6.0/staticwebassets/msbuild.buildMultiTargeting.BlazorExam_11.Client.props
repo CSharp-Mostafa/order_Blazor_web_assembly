@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlazorExam_11.Client.props" />
+</Project>
